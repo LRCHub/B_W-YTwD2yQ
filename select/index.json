@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Missing Beauty",
+  "base_artist": "Sudo Genki",
+  "createdAt": "2026-04-02T21:32:11.835521Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Missing Beauty",
+      "artist": "Sudo Genki",
+      "has_synced": false,
+      "path": "select/01_Missing_Beauty_Sudo_Genki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Missing Beauty",
+      "artist": "須藤元気",
+      "has_synced": true,
+      "path": "select/02_Missing_Beauty_須藤元気.lrc"
+    }
+  ]
+}
